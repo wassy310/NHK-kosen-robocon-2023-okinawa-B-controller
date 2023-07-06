@@ -1,7 +1,7 @@
-# NHK_Kosen_Robocon_2023_Okinawa_B
+# NHK-Kosen-Robocon-2023-Okinawa-B-controller
 
 ## 概要
-高専ロボコン2023、沖縄Bチームで使用したプログラム  
+高専ロボコン2023、沖縄Bチームで使用したコントローラー(遠隔非常停止、ロボットの状態確認)  
 
 ## 開発・動作環境
 |         |  |
