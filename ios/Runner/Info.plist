@@ -47,5 +47,12 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Bluetoothの使用を許可しますか？</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>ESP32への接続に使用します。</string>
+
+
 </dict>
 </plist>
